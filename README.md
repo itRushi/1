@@ -9,7 +9,7 @@ name- Rushikesh borude
 
 profession - SOFTWARE ENGINEER & FULL STACK WEB DEVELOPER
 
-year of experience 1 +
+year of experience 1.5 +
 
 live from - maharashtra, india.
 
@@ -26,11 +26,15 @@ facebook -  https://www.facebook.com/rushikesh.borude.180
 
 Instagram - https://www.instagram.com/rushikesh.borude_offical/
 
-portfolio - https://rushikeshborude.github.io/Portfolio-of-Software-Engineer-and-Full-Stack-Web-Developer-by-Rushikesh-Borude/
+portfolio - https://rushikeshborude.github.io/1
 
 Twitter | X - https://twitter.com/RushikeshBorud1 
 
 GitHub -  https://github.com/RushikeshBorude 
+
+reusme - https://docs.google.com/document/d/1Q5DvMpdUhJL0VlNimsKvgB_H9nyKehxDh2echLPe1es/edit?usp=drivesdk
+
+
 
 Mo.no.- 8329436643	
 
