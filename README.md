@@ -1,15 +1,11 @@
-
-
-# these projects own by Rushikesh Borude | Professionally SOFTWARE ENGINEER & FULL STACK WEB DEVELOPER
+# these projects own by Rushikesh | Professionally SOFTWARE ENGINEER & FULLSTACK DEVELOPER
 
 
 little bit about me - 
 
-name- Rushikesh borude
+name- Rushikesh
 
-profession - SOFTWARE ENGINEER & FULL STACK WEB DEVELOPER
-
-year of experience 1.5 +
+year of experience 1.8 +
 
 live from - maharashtra, india.
 
@@ -20,15 +16,16 @@ I am ready available for work (yes or no).....?  -  yes definitely I am availabl
 
 find me on social media - 
 
-LinkedIn -  https://www.linkedin.com/in/rushikesh-s-borude-23b380198/ 
+LinkedIn - 
+linkedin.com/in/rushikesh-borude-23b380198
 
-facebook -  https://www.facebook.com/rushikesh.borude.180 
+Instagram - instagram.com/rushii.offical
 
-Instagram - https://www.instagram.com/rushikesh.borude_offical/
+portfolio - 
+rushikeshborude.github.io/1
 
-portfolio - https://rushikeshborude.github.io/1
-
-Twitter | X - https://twitter.com/RushikeshBorud1 
+Twitter | X -
+x.com/Offical_Rushi
 
 GitHub -  https://github.com/RushikeshBorude 
 
