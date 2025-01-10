@@ -1,6 +1,108 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap");
 
+
+new start here 
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f9f9f9;
+}
+
+.rushi_heading {
+  border: 2px solid green;
+  border-radius: 12px;
+  padding: 20px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 128, 0, 0.3);
+}
+
+#rushi_image {
+  width: 80px;
+  height: 80px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px green;
+  object-fit: cover;
+  margin-top: 10px;
+}
+
+.rushi_text {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  display: inline-block;
+  background: linear-gradient(90deg, #00c6ff, #0072ff, #00c6ff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: textAnimation 3s linear infinite;
+}
+
+@keyframes textAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+
+@media (max-width: 480px) {
+  #rushi_image {
+    width: 60px;
+    height: 60px;
+  }
+  .rushi_text {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+  #rushi_image {
+    width: 70px;
+    height: 70px;
+  }
+  .rushi_text {
+    font-size: 22px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  #rushi_image {
+    width: 90px;
+    height: 90px;
+  }
+  .rushi_text {
+    font-size: 26px;
+  }
+}
+
+@media (min-width: 1025px) {
+  #rushi_image {
+    width: 100px;
+    height: 100px;
+  }
+  .rushi_text {
+    font-size: 30px;
+  }
+}
+
+new end here 
+
+
+
+
+
+
+
 * {
   margin: 0;
   padding: 0;
